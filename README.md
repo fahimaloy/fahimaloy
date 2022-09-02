@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am ### Fahim Ahmed
+I am Fahim Ahmed
 
 - 🔭 I’m currently studying at a University in Bangladesh.I am a Freelancer Fullstack Developer.
 - I Used to Code in python.Now I switched to MEVN stack development.
