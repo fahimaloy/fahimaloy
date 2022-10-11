@@ -1,11 +1,39 @@
-
-
-|SL  | Project        | Language Used   |
-|:--:| :-----------: | :-----------: |
-|1   | [**School Management System Project**](#)        |<div class="desc"> <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> ***Python(Django)*** ,MySQL/SQLite/PostgreSQL , Javascript , Jquery , ajax , HTML, CSS, Bootstrap  </div>       |
-|2   |[**Hospital Management Project**](#)     |<div class="desc"><img src="https://img.icons8.com/color/20/000000/vue-js.png"/>  **(MEVN Stack Application)** Vue JS , NodeJs , MongoDB , Express</div>         |
-|3| [**Golang Based Authentication Boilerplate**](https://github.com/fahimaloy/goFiberAuth)|<div class="desc"><img src="https://img.icons8.com/color/20/000000/golang.png"/>***Go,Mysql***</div> |
-|4|[**Online Examination System**](#)| <div class="desc"> <img src="https://img.icons8.com/color/20/000000/python--v1.png"/>**Python(Django)**, Mysql|
-|5| [**My Terminal Portfolio**]() | <div class="desc"><img src="https://img.icons8.com/officel/20/000000/react.png"/> **React JS** </div>|
-|6| [**Windows Lookalike Portfolio**]() | <div class="desc"><img src="https://img.icons8.com/color/20/000000/vue-js.png"/> **Vue Js** </div>|
-
+<table>
+<thead>
+<tr>
+<th align="center">SL</th>
+<th align="center">Project</th>
+<th align="center">Language Used</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center"><a href="#"><strong>School Management System Project</strong></a></td>
+<td align="center"><div class="desc"> <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> <em><strong>Python(Django)</strong></em> ,MySQL/SQLite/PostgreSQL , Javascript , Jquery , ajax , HTML, CSS, Bootstrap  </div></td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center"><a href="#"><strong>Hospital Management Project</strong></a></td>
+<td align="center"><div class="desc"><img src="https://img.icons8.com/color/20/000000/vue-js.png"/>  <strong>(MEVN Stack Application)</strong> Vue JS , NodeJs , MongoDB , Express</div></td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center"><a href="https://github.com/fahimaloy/goFiberAuth"><strong>Golang Based Authentication Boilerplate</strong></a></td>
+<td align="center"><div class="desc"><img src="https://img.icons8.com/color/20/000000/golang.png"/><em><strong>Go,Mysql</strong></em></div></td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center"><a href="#"><strong>Online Examination System</strong></a></td>
+<td align="center"><div class="desc"> <img src="https://img.icons8.com/color/20/000000/python--v1.png"/><strong>Python(Django)</strong>, Mysql</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center"><a href=""><strong>My Terminal Portfolio</strong></a></td>
+<td align="center"><div class="desc"><img src="https://img.icons8.com/officel/20/000000/react.png"/> <strong>React JS</strong> </div></td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center"><a href=""><strong>Windows Lookalike Portfolio</strong></a></td>
+<td align="center"><div class="desc"><img src="https://img.icons8.com/color/20/000000/vue-js.png"/> <strong>Vue Js</strong> </div></td>
+</tr>
+</tbody></table>
