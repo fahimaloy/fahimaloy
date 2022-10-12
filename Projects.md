@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td align="center">5</td>
-<td align="center"><a href="http://www.fahimaloy.herokuapp.com/"><strong>My Terminal Portfolio</strong></a></td>
+<td align="center"><a href="http://fahimaloy.herokuapp.com/"><strong>My Terminal Portfolio</strong></a></td>
 <td align="center"><div class="desc"><img src="https://img.icons8.com/officel/20/000000/react.png"/> <strong>React JS</strong> </div></td>
 </tr>
 <tr>
