@@ -28,12 +28,12 @@
 </tr>
 <tr>
 <td align="center">5</td>
-<td align="center"><a href=""><strong>My Terminal Portfolio</strong></a></td>
+<td align="center"><a href="http://www.fahimaloy.herokuapp.com/"><strong>My Terminal Portfolio</strong></a></td>
 <td align="center"><div class="desc"><img src="https://img.icons8.com/officel/20/000000/react.png"/> <strong>React JS</strong> </div></td>
 </tr>
 <tr>
 <td align="center">6</td>
-<td align="center"><a href=""><strong>Windows Lookalike Portfolio</strong></a></td>
+<td align="center"><a href="https://fahimaloy-win.onrender.com/"><strong>Windows Lookalike Portfolio</strong></a></td>
 <td align="center"><div class="desc"><img src="https://img.icons8.com/color/20/000000/vue-js.png"/> <strong>Vue Js</strong> </div></td>
 </tr>
 </tbody></table>
