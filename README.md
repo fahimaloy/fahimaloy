@@ -2,8 +2,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 I am Fahim Ahmed
 
 - I’m currently studying at a University in Bangladesh.I am a Freelancer Fullstack Developer.
-- I Used to Code in python.Now I switched to MEVN stack development.
-- I have worked with quite a few numbers of clients. e:g ) Shwapnobahok, 2)Alims Academy , 3)Araihazar Central Hospital 4)Cikatech Inc.
+- I have a good knowledge and experience of Working with frameworks like Vue js and Nuxt js.At some level, I did MEVN stack but recently I am switching to react and MERN stack.
+- I have worked with quite a few numbers of companies. e:g ) Shwapnobahok, 2)Alims Academy , 3)Araihazar Central Hospital 4)Cikatech Inc.
 - Hobbies: Programming, Reading Books, Binge Watching Friends/HIMYM/TBBT
 - ⚡ I've _recently started_ (may 2022) participating in the open source community; feel free to reach out if you want to collab!
 
