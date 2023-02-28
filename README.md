@@ -3,11 +3,11 @@ I am Fahim Ahmed
 
 - I’m currently studying at a University in Bangladesh.I am a Freelancer Fullstack Developer.
 - I Used to Code in python.Now I switched to MEVN stack development.
-- I have worked with quite a few numbers of clients. e:g ) Shwapnobahok, 2)Alims Academy , 3)Araihazar Central Hospital etc.
+- I have worked with quite a few numbers of clients. e:g ) Shwapnobahok, 2)Alims Academy , 3)Araihazar Central Hospital 4)Cikatech Inc.
 - Hobbies: Programming, Reading Books, Binge Watching Friends/HIMYM/TBBT
 - ⚡ I've _recently started_ (may 2022) participating in the open source community; feel free to reach out if you want to collab!
 
-Website: <a href="https://fahimaloy.herokuapp.com/">Fahimaloy</a>
+Website: <a href="https://fahimaloy-terminal-portfolio.onrender.com/">Fahimaloy</a>
 
 <table>
 <thead>
@@ -19,7 +19,7 @@ Website: <a href="https://fahimaloy.herokuapp.com/">Fahimaloy</a>
 </thead>
 <tbody><tr>
 <td align="center">1</td>
-<td align="center"><a href="#"><strong>School Management System Project</strong></a></td>
+<td align="center"><a href="https://smsp.onrender.com"><strong>School Management System Project</strong></a></td>
 <td align="center"><div class="desc"> <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> <em><strong>Python(Django)</strong></em> ,MySQL/SQLite/PostgreSQL , Javascript , Jquery , ajax , HTML, CSS, Bootstrap  </div></td>
 </tr>
 <tr>
@@ -37,14 +37,29 @@ Website: <a href="https://fahimaloy.herokuapp.com/">Fahimaloy</a>
 <td align="center"><a href="#"><strong>Online Examination System</strong></a></td>
 <td align="center"><div class="desc"> <img src="https://img.icons8.com/color/20/000000/python--v1.png"/><strong>Python(Django)</strong>, Mysql</td>
 </tr>
-<tr>
+  <tr>
 <td align="center">5</td>
-<td align="center"><a href=""><strong>My Terminal Portfolio</strong></a></td>
+<td align="center"><a href="https://github.com/fahimaloy/flight-booking-app"><strong>React Redux Flight Booking App</strong></a></td>
+<td align="center"><div class="desc"> <img src="https://img.icons8.com/officel/20/000000/react.png"/> <strong>React , Redux</strong></td>
+</tr>
+  <tr>
+<td align="center">6</td>
+<td align="center"><a href="https://github.com/fahimaloy/react-redux-shopping-cart"><strong>Online Shopping Cart Using React Redux</strong></a></td>
+<td align="center"><div class="desc"><img src="https://img.icons8.com/officel/20/000000/react.png"/> <strong>React, Redux</strong></td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center"><a href="https://github.com/fahimaloy/fahimaloy.vanilla-redux-scoreboard.io"><strong>Vanilla Redux Scoreboard</strong></a></td>
+<td align="center"><div class="desc"><img src="https://img.icons8.com/officel/20/000000/js.png"/> <strong>Vanilla Redux</strong> Javascript </div></td>
+</tr>
+ <tr>
+<td align="center">8</td>
+<td align="center"><a href="https://fahimaloy-terminal-portfolio.onrender.com"><strong>My Terminal Portfolio</strong></a></td>
 <td align="center"><div class="desc"><img src="https://img.icons8.com/officel/20/000000/react.png"/> <strong>React JS</strong> </div></td>
 </tr>
 <tr>
-<td align="center">6</td>
-<td align="center"><a href=""><strong>Windows Lookalike Portfolio</strong></a></td>
+<td align="center">9</td>
+<td align="center"><a href="https://fahimaloy-win.onrender.com"><strong>Windows Lookalike Portfolio</strong></a></td>
 <td align="center"><div class="desc"><img src="https://img.icons8.com/color/20/000000/vue-js.png"/> <strong>Vue Js</strong> </div></td>
 </tr>
 </tbody></table>
